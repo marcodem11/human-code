@@ -1,0 +1,15 @@
+ES 2 FIGURINE
+
+Prendo il pacchetto
+Lo apro e sfilo le carte
+Prendo le figurine in una mano e l'album in un altra
+Apro l'album
+Controllo se ci sono doppioni
+    *Se si le posiziono al lato dell'album
+    *Se no le continuo a tenere in mano
+Controllando le figurine non doppiate le posiziono nel reparto giusto dell'album
+Chiudo l'album
+Prendo le figurine doppiate al lato
+Prendo il mazzo dei doppiati e le inserisco dentro
+    *Se il mazzo dei doppiati è troppo pieno (>40 cards) ne creo uno nuovo
+    *Se invece <40 Cards le metto tranquillamente
